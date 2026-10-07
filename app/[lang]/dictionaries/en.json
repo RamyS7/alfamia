@@ -1,0 +1,269 @@
+
+{
+  "topTicker": {
+    "badge": "DIRECT B2B TIMBER & PLYWOOD DISPATCH",
+    "standards": "CERTIFIED STANDARDS EN 636-3 / BS 1088 / ISO 9001",
+    "verified": "Global Specification Compliant",
+    "shipping": "Continuous Dispatch & Supply"
+  },
+  "nav": {
+    "brandName": "AFAMIA",
+    "brandSub": "Afamia Plywood",
+    "home": "Home",
+    "about": "About Us",
+    "products": "Products",
+    "services": "Services",
+    "contact": "Contact Us",
+    "quote": "Request a Quote"
+  },
+  "hero": {
+    "badge": "AFAMIA TIMBER & PLYWOOD MANUFACTURING",
+    "titleLine1": "Quality Wood...",
+    "titleLine2": "Reliable Supply.",
+    "description": "Afamia Plywood specializes in plywood manufacturing and high-grade timber & log supply for contracting firms, industrial factories, and large-scale projects.",
+    "productsButton": "Explore Our Products",
+    "contactButton": "Contact Us",
+    "metrics": {
+      "metric1Title": "COMMERCIAL SUPPLY",
+      "metric1Sub": "B2B Wholesale",
+      "metric1Desc": "Contract solutions & continuous delivery",
+      "metric2Title": "PRECISION STANDARDS",
+      "metric2Sub": "EN 636-3 / BB/BB",
+      "metric2Desc": "Consistent inspection & testing quality",
+      "metric3Title": "SUPPLY CHAIN",
+      "metric3Sub": "Direct Import",
+      "metric3Desc": "Integrated import and manufacturing",
+      "metric4Title": "PRODUCT RANGE",
+      "metric4Sub": "Plywood & Logs",
+      "metric4Desc": "Plywood, timber, & raw logs"
+    }
+  },
+  "about": {
+    "specBadge": "STRUCTURAL STANDARD SPECIFICATION",
+    "specTitle": "PREMIUM BIRCH PLYWOOD BB/BB",
+    "specDesc": "18mm x 1220 x 2440mm | EN 636-3 COMPLIANT",
+    "tag": "ABOUT AFAMIA",
+    "title": "Leaders in Manufacturing & Supplying Reliable Wood & Plywood Solutions",
+    "p1Bold": "Afamia Plywood",
+    "p1Text": "is a strategic partner for major contracting companies, furniture manufacturers, and industrial developers. We combine strict international standards with logistics power to provide comprehensive timber solutions including engineered plywood, treated lumber, and raw logs.",
+    "p2": "Backed by a robust supply chain, we ensure prompt delivery of required volumes tested to high technical standards, offering maximum flexibility for custom project specifications.",
+    "values": {
+      "v1Title": "High-Quality Products",
+      "v1Desc": "Rigorous selection of timber, veneer layers, and moisture-resistant structural panels.",
+      "v2Title": "Reliable & Regular Supply",
+      "v2Desc": "Strategic warehouse inventory and advanced logistics ensuring uninterrupted client production lines.",
+      "v3Title": "Professional Service",
+      "v3Desc": "Specialized technical consulting for project feasibility studies and engineering specifications.",
+      "v4Title": "Long-Term Business Partnerships",
+      "v4Desc": "Strong business relationships built on transparency, trust, and flexible contract terms."
+    }
+  },
+  "products": {
+    "tag": "CORE PRODUCT LINES",
+    "title": "Our Main Wood & Plywood Products",
+    "subtitle": "Our range satisfies all structural and industrial requirements, from high-density panels to raw round logs.",
+    "flagship": "FLAGSHIP PRODUCT",
+    "readyForDispatch": "Ready for immediate bulk dispatch",
+    "lumberTag": "SAWN LUMBER",
+    "whitewoodTag": "WHITEWOOD",
+    "logsTag": "ROUND LOGS",
+    "industrialLogsTag": "INDUSTRIAL LOGS",
+    "plywood": {
+      "title": "Engineered & Industrial Plywood",
+      "description": "High-grade plywood suitable for industrial and commercial applications, luxury contracting, furniture frameworks, and environments subject to mechanical stress and moisture. Available in BB/BB and BB/CP grades with precise dimensions.",
+      "thicknessLabel": "Available Thicknesses",
+      "thicknessValue": "4mm - 30mm",
+      "glueLabel": "Glue Type",
+      "glueValue": "WBP / Melamine E0",
+      "dimLabel": "Standard Dimensions",
+      "dimValue": "1220×2440 / 1525×1525",
+      "cta": "Request Specifications & Pricing"
+    },
+    "redPine": {
+      "title": "Red Pine Lumber",
+      "description": "Kiln-dried red pine lumber, ideal for construction, general carpentry, architectural joinery, and door/window manufacturing.",
+      "moisture": "Moisture Content: 12% - 14% KD",
+      "grades": "Grades: I-IV Scandinavian",
+      "cta": "Inquire About Sizes & Bundles"
+    },
+    "spruce": {
+      "title": "Spruce Lumber (Whitewood)",
+      "description": "Ultra-clean European whitewood lumber, engineered for commercial and industrial framing, concrete formwork, and industrial packaging.",
+      "cta": "Request Wholesale Quote"
+    },
+    "birchLogs": {
+      "title": "Natural Birch Logs",
+      "description": "Natural round birch logs imported and supplied directly for peeling mills, veneer production, high-density plywood, and woodworking industries.",
+      "cta": "Arrange Container Dispatch"
+    },
+    "aspenLogs": {
+      "title": "Aspen Round Logs",
+      "description": "High-demand aspen logs required for wood treatments, match factories, sauna construction, packaging boards, and crack-resistant light wood products.",
+      "cta": "Diameter & Length Specs"
+    }
+  },
+  "whyChoose": {
+    "tag": "ADVANTAGES & EXCELLENCE",
+    "title": "Why Choose Afamia Plywood for Your Supply?",
+    "subtitle": "We offer a complete system of industrial excellence that guarantees maximum ROI and operational reliability for your enterprise.",
+    "item1": {
+      "title": "Exceptional Material Quality",
+      "desc": "Rigorous quality control at all production stages to ensure board flatness, bond strength, and core integrity.",
+      "badge": "Certified Global Standards"
+    },
+    "item2": {
+      "title": "Reliable Delivery Schedules",
+      "desc": "Continuous stock availability for immediate dispatch, shielding clients from global supply chain disruptions.",
+      "badge": "On-Time Dispatch"
+    },
+    "item3": {
+      "title": "Professional Communication",
+      "desc": "Dedicated account managers for prompt inquiries, detailed quotes, and end-to-end logistical support.",
+      "badge": "Dedicated Client Support"
+    },
+    "item4": {
+      "title": "Comprehensive Product Diversity",
+      "desc": "A single reliable source covering plywood, pine, spruce lumber, and raw logs for major factories.",
+      "badge": "Unified Supply Source"
+    },
+    "item5": {
+      "title": "Long-Term Commercial Partnerships",
+      "desc": "Tailored contractual arrangements providing sustained growth and financial flexibility for large buyers.",
+      "badge": "Enduring Business Trust"
+    }
+  },
+  "services": {
+    "tag": "INDUSTRIAL CAPABILITIES",
+    "title": "Specialized Services Supporting the Industrial & Commercial Sector",
+    "s1": {
+      "title": "Plywood Manufacturing",
+      "desc": "Advanced pressing and production lines for multi-layer plywood panels built to custom density and flexural specifications.",
+      "badge": "Custom Specs On Demand"
+    },
+    "s2": {
+      "title": "Wood & Timber Supply",
+      "desc": "Full shipments of pine, spruce, and birch timber delivered with precise dimensions and moisture control for furniture and construction.",
+      "badge": "Direct Project Site Delivery"
+    },
+    "s3": {
+      "title": "Raw Log Supply",
+      "desc": "Securing containers of natural round logs from sustainable forestry for processing and veneer peeling facilities.",
+      "badge": "Direct Port Shipment"
+    },
+    "s4": {
+      "title": "Wholesale Corporate Supply",
+      "desc": "Annual and seasonal B2B supply contracts offering competitive pricing and flexible delivery schedules.",
+      "badge": "Certified B2B Contracts"
+    },
+    "s5": {
+      "title": "Custom B2B Project Solutions",
+      "desc": "Tailored sizing, anti-fire/moisture treatments, and pre-cut panel supplies that minimize waste and maximize jobsite efficiency.",
+      "badge": "Free Engineering Consultation"
+    }
+  },
+  "cta": {
+    "tag": "B2B TENDERS & SUPPLY INQUIRIES",
+    "title": "Looking for a Reliable Plywood & Timber Supplier?",
+    "description": "Get in touch with Afamia Plywood now to discuss your timber, plywood, and log requirements, and obtain competitive quotes with guaranteed schedules.",
+    "contactBtn": "Contact Us Now",
+    "quoteBtn": "Request Quick Quote"
+  },
+  "contact": {
+    "tag": "CONTACT DIRECT",
+    "title": "We Are Here to Help Support and Scale Your Operations",
+    "description": "Whether you require technical consultation on plywood specifications or seek recurring scheduled shipments of lumber and logs, our team is ready to respond.",
+    "info": {
+      "locationTitle": "HEADQUARTERS & CENTRAL WAREHOUSE",
+      "locationDesc": "Arab Republic of Egypt - Industrial & Logistics Development Zone",
+      "phoneTitle": "DIRECT CALL & WHATSAPP",
+      "phoneValue": "+20 XXX XXX XXXX",
+      "phoneDesc": "Corporate B2B sales & bulk orders desk",
+      "emailTitle": "ORDERS & TENDERS EMAIL",
+      "emailValue": "info@example.com",
+      "emailDesc": "Send tender documents and project specs",
+      "hoursTitle": "OFFICIAL WORKING HOURS",
+      "hoursValue": "Sunday - Thursday: 08:00 AM - 05:00 PM",
+      "hoursDesc": "(Cairo Time GMT+2) - Friday & Saturday Closed"
+    },
+    "form": {
+      "tag": "B2B SPECIFICATION & QUOTE FORM",
+      "title": "Send Your Inquiry or Quotation Request",
+      "subtitle": "Please provide your company details and product requirements for a swift account representative follow-up.",
+      "nameLabel": "Full Name *",
+      "namePlaceholder": "Enter representative name",
+      "companyLabel": "Company Name *",
+      "companyPlaceholder": "Factory or company name",
+      "phoneLabel": "Phone / Mobile Number *",
+      "phonePlaceholder": "+20 XXX XXX XXXX",
+      "emailLabel": "Work Email *",
+      "emailPlaceholder": "procurement@company.com",
+      "productLabel": "Product / Supply Required *",
+      "productSelectDefault": "Select product type from list...",
+      "optPlywood": "Engineered & Industrial Plywood",
+      "optRedPine": "Red Pine Lumber",
+      "optSpruce": "Spruce Lumber (Whitewood)",
+      "optBirchLogs": "Birch Logs",
+      "optAspenLogs": "Aspen Logs",
+      "optCustom": "Custom B2B Solutions & Custom Sizing",
+      "messageLabel": "Order Details & Estimated Quantities *",
+      "messagePlaceholder": "Specify dimensions, thickness, cubic meters or pallets, and expected delivery timeline...",
+      "submitBtn": "Send Inquiry",
+      "submitting": "Sending...",
+      "success": "Your request has been successfully received. A technical sales manager will contact you within 24 business hours."
+    }
+  },
+  "footer": {
+    "brandSub": "AFAMIA TIMBER & PLYWOOD",
+    "description": "Architectural-grade plywood, certified marine timber, and exotic natural veneer solutions engineered for contract interiors, high-density residential towers, and international construction standards.",
+    "col1Title": "ENGINEERED PRODUCTS",
+    "col2Title": "CORPORATE",
+    "col3Title": "HEADQUARTERS & CONTACT",
+    "p1": "Marine Grade Plywood (BS 1088)",
+    "p2": "Architectural Teak & Oak Veneers",
+    "p3": "High-Pressure Phenolic Film Face",
+    "p4": "Fire-Retardant MDF & Blockboards",
+    "p5": "Commercial Birch & Okoume Panels",
+    "c1": "About Us",
+    "c2": "Custom CNC & Sizing Services",
+    "c4": "B2B Tenders & Quotes",
+    "c5": "Support & Procurement",
+    "location": "Industrial Development Zone, Cairo, Egypt",
+    "copyright": "© 2025 Afamia Plywood. All industrial patents & material rights reserved.",
+    "terms": "Terms of Procurement",
+    "standards": "Quality Standards",
+    "privacy": "Privacy Policy"
+  },
+  "calculator": {
+    "tag": "TECHNICAL ESTIMATION TOOL",
+    "title": "Volume & Quantity Estimator",
+    "subtitle": "Calculate volume in cubic meters (m³), estimated weight, and required sheets or pallets for your project instantly.",
+    "productType": "Product Type",
+    "plywood": "Birch Plywood",
+    "redPine": "Red Pine Lumber",
+    "spruce": "Spruce Whitewood Lumber",
+    "birchLogs": "Raw Birch Round Logs",
+    "thickness": "Thickness (mm)",
+    "length": "Length (mm)",
+    "width": "Width (mm)",
+    "quantity": "Quantity (Sheets / Pieces)",
+    "calcResult": "Estimation Results",
+    "volumeM3": "Total Volume (m³)",
+    "estWeight": "Est. Weight (kg)",
+    "estPallets": "Est. Pallets",
+    "requestQuoteBtn": "Request Quote for Calculated Quantity",
+    "note": "* Estimates are based on standard wood densities (650-700 kg/m³). Request an official quotation for verified engineering specs."
+  },
+  "quickQuoteModal": {
+    "title": "Fast B2B Quote Request",
+    "subtitle": "Provide your project details and receive a comprehensive price quote and delivery schedule within hours.",
+    "close": "Close",
+    "send": "Send Request",
+    "sending": "Sending...",
+    "success": "Your request was submitted successfully! We will contact you shortly."
+  },
+  "floatingContact": {
+    "call": "Direct Call",
+    "whatsapp": "WhatsApp Sales",
+    "quote": "Fast Quote"
+  }
+}
